@@ -1,5 +1,5 @@
 # 👋 Halo, aku Rivan!
-Mahasiswa Sistem Informasi | Fullstack Developer (Laravel, React, Firebase) | Designer 🚀  
+Mahasiswa Sistem Informasi | Fullstack Developer (Laravel, Livewire) | UI Designer 🚀  
 
 💡 Saat ini aku sedang:
 - 🔭 Membangun **MyLibraryUnib** (Sistem Manajemen Perpustakaan)
@@ -7,7 +7,8 @@ Mahasiswa Sistem Informasi | Fullstack Developer (Laravel, React, Firebase) | De
 - 🎨 Ngulik desain UI/UX buat web & mobile  
 
 📫 Hubungi aku:
-[![Instagram](https://img.shields.io/badge/Instagram-%40codevan__-E4405F?style=flat&logo=instagram)](https://instagram.com/codevan_)
+[![Instagram](https://img.shields.io/badge/Instagram-%projectvan_-E4405F?style=flat&logo=instagram)](https://instagram.com/codevan_)
+[![Instagram](https://img.shields.io/badge/Instagram-%alftn1-E4405F?style=flat&logo=instagram)](https://instagram.com/codevan_)
 [![GitHub](https://img.shields.io/badge/GitHub-Rivan012-181717?style=flat&logo=github)](https://github.com/Rivan012)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RivanAlfatoni-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rivanalfatoni)
 
@@ -28,6 +29,9 @@ Mahasiswa Sistem Informasi | Fullstack Developer (Laravel, React, Firebase) | De
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivan012&layout=compact&theme=tokyonight)
 
 ---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontColor=fff&fontSize=28&fontAlignY=35&animation=fadeIn" />
+</div>
 
 ### ✨ Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.” 😆
