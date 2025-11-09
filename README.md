@@ -48,13 +48,12 @@ Mahasiswa Sistem Informasi | Fullstack Developer (Laravel, Livewire) | UI Design
 ---
 
 ### 📂 Featured Projects
-- 🔖 [MyLibraryUnib](https://github.com/Rivan012/MyLibraryUnib) — Sistem Manajemen Perpustakaan dengan Laravel 12 & Livewire.
-- 🏪 [TokoMan](https://github.com/Rivan012/TokoMan) — Sistem Manajemen Toko modern dengan Laravel & Bootstrap 5.
+- 🔖 [MyLibraryUnib](https://github.com/Rivan012/MyLibrary) — Sistem Manajemen Perpustakaan dengan Laravel 12 & Livewire.
 
 ---
 
 ### ✨ Fun Fact
-> “Code is like humor. When you have to explain it, it’s bad.” 😆  
+> “Satu Baris tiap hari bisa membuat 1000 baris dikemudian hari” 😆  
 
 ---
 
