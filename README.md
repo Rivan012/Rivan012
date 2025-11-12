@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontColor=fff&fontSize=28&fontAlignY=35&animation=fadeIn" />
 </div>
 
-# 👋 Halo, aku Rivan!
+# 👋 Halo, aku Rivan Alfatoni 
 Mahasiswa Sistem Informasi | Fullstack Developer (Laravel, Livewire) | UI Designer 🚀  
 
 💡 Saat ini aku sedang:
