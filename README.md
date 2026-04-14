@@ -29,11 +29,6 @@ Mahasiswa Sistem Informasi | Fullstack Developer (Laravel, Livewire) | UI Design
 
 ---
 
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivan012&show_icons=true&theme=tokyonight" alt="Rivan's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivan012&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivan012&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
