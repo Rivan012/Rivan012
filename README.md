@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Halo, aku Rivan Alfatoni 
-Mahasiswa Sistem Informasi | Fullstack Developer (Laravel, Livewire) | UI Designer 🚀  
+Mahasiswa Sistem Informasi || Fullstack Developer (Laravel, Livewire) | UI Designer 🚀  
 
 💡 Saat ini aku sedang:
 - 🔭 Membangun **MyLibraryUnib** (Sistem Manajemen Perpustakaan)
