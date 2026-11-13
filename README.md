@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:064e3b,100:00ff9d&height=180&section=header&text=RIVAN%20ALFATONI&fontSize=45&fontColor=00ff9d&fontAlignY=45&animation=fadeIn&stroke=00ff9d&strokeWidth=1"/>
@@ -135,4 +134,4 @@ Status     : Building Something Awesome...
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:064e3b,100:020617&height=120&section=footer"/>
 
 </div>
-```
+
